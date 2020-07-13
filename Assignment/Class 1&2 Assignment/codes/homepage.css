@@ -1,0 +1,117 @@
+.imagecontainer{
+    background: url(restro.jpg);
+    border-style: solid;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+.logo{
+    text-align: center;
+    color: blanchedalmond;
+    font-size: 90px;
+    background-color: chocolate;
+    height: 150px;
+    width: 150px;
+    margin: auto;
+    border-radius: 50%;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    
+}
+
+.heading{
+    text-align: center;
+    color: cornsilk;
+    font-size: 40px;
+    margin-bottom: 30px;
+    
+
+    
+
+}
+
+body{
+    margin: auto;
+}
+
+.locationselector{
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 90px;
+    
+
+}
+
+.locationdropdown{
+    height: 60px;
+    width: 250px;
+    font-size: 20px;
+    border-radius: 80px;
+}
+
+.locationdropdown2{
+    height: 55px;
+    width: 350px;
+    font-size: 20px;
+    border-radius: 80px;
+}
+
+.quicksearchcontainer{
+    margin-left: 120px;
+    margin-top: 50px;
+}
+
+.quicksearchheading{
+    text-align: left;
+    font-size: 35px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+    color: darkslateblue;
+    line-height: 1.5;
+}
+
+.quicksearchsubheading{
+    text-align: left;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+    color:gray;
+    letter-spacing: normal;
+    line-height: .1;
+}
+
+.tilecontainer{
+    box-shadow: 0 3px 6px black;
+    margin-right: 30px;
+    margin-bottom: 30px;
+    width: 400px;
+    height: 150px;
+    background-color: white;
+    display: inline-block;
+}
+
+.tilecomponent1{
+    width: 50%;
+    float: left;
+}
+
+.tilecomponent2{
+    width: 50%;
+    float: left;
+    margin-top: 20px;
+}
+
+.componentheading{
+    text-align: left;
+    color: #192f60;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.componentsubheading{
+    text-align: left;
+    color: grey;
+    font-size: 14px;
+    font-weight: bold;
+}
